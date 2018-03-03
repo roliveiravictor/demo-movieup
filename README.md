@@ -30,5 +30,5 @@ IDE: Android Studio 3.0.1
 
 ### Prints ###
 
-   *  [MovieUp Home](https://bitbucket.org/roliveiravictor/demo-movieup/raw/development/screenshots/movieup_1.jpg)
-   *  [MovieUp Details](https://bitbucket.org/roliveiravictor/demo-movieup/raw/development/screenshots/movieup_2.jpg)
+   *  [MovieUp Home](https://bytebucket.org/roliveiravictor/demo-movieup/raw/aadbc260f12a3b15d15ade5f52e769264c306c05/screenshots/MovieUp%201.png)
+   *  [MovieUp Details](https://bytebucket.org/roliveiravictor/demo-movieup/raw/aadbc260f12a3b15d15ade5f52e769264c306c05/screenshots/MovieUp%202.png)
