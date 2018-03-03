@@ -30,4 +30,5 @@ IDE: Android Studio 3.0.1
 
 ### Prints ###
 
-   *  N/A
+   *  ![Scheme](screenshots/MovieUp 1.png)
+   *  ![Scheme](screenshots/MovieUp 2.png)
